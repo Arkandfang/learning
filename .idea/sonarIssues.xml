@@ -8,7 +8,297 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../bank-flow/common/src/main/java/com/xiaoju/manhattan/financing/bank/flow/common/response/BizErrorCode.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bank-flow/core/src/main/java/com/xiaoju/manhattan/financing/bank/flow/core/common/CommonService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bank-flow/core/src/main/java/com/xiaoju/manhattan/financing/bank/flow/core/message/AsynConsumerService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bank-flow/core/src/main/java/com/xiaoju/manhattan/financing/bank/flow/core/purchase/service/DriverBalancePurchaseService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bank-flow/core/src/main/java/com/xiaoju/manhattan/financing/bank/flow/core/purchase/service/ElectronicPurchaseService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bank-flow/core/src/main/java/com/xiaoju/manhattan/financing/bank/flow/core/purchase/service/PurchaseService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bank-flow/core/src/main/java/com/xiaoju/manhattan/financing/bank/flow/core/redeem/service/RedeemService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bank-flow/core/src/main/java/com/xiaoju/manhattan/financing/bank/flow/core/worker/WorkerService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bank-flow/partner/src/main/java/com/xiaoju/manhattan/financing/bank/flow/partner/config/PartnerServerConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bank-flow/partner/src/main/java/com/xiaoju/manhattan/financing/bank/flow/partner/d19pay/PaymentService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bank-flow/partner/src/main/java/com/xiaoju/manhattan/financing/bank/flow/partner/product/HorseProductService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bank-flow/portal/src/main/java/com/xiaoju/manhattan/financing/bank/flow/portal/controller/transaction/PurchaseController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bank-flow/portal/src/main/java/com/xiaoju/manhattan/financing/bank/flow/portal/controller/transaction/WorkerController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../financing-applet-admin/admin-portal/src/test/java/com/xiaoju/manhattan/financing/applet/core/position/ProductTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../financing-applet-admin/admin-portal/src/test/java/com/xiaoju/manhattan/financing/applet/core/position/test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../financing-applet-core/horse-starter/src/test/java/com/xiaoju/manhattan/financing/applet/core/horse/MisServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/basic/src/main/java/basic/Referance.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/basic/src/main/java/basic/ReferenceEmp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/basic/src/main/java/basic/ReferenceObject.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/basic/src/main/java/basic/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/basic/src/main/java/hashmap/HashMapTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/basic/src/main/java/sort/QuickSort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/basic/src/main/java/string/stringTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/basic/src/main/java/test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../octans/credit-card-api/src/main/java/com/xiaoju/ddpay/dc/card/api/common/ResponseStatus.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../octans/credit-card-api/src/main/java/com/xiaoju/ddpay/dc/card/api/common/exception/CreditCardException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../octans/credit-card-bootstrap/src/main/resources/application-pre.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../octans/credit-card-bootstrap/src/main/resources/application-prod.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../octans/credit-card-bootstrap/src/main/resources/application-test.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../octans/credit-card-bootstrap/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../octans/credit-card-bootstrap/src/test/java/com/xiaoju/ddpay/dc/card/right/RightRpcServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../octans/credit-card-bootstrap/src/test/java/com/xiaoju/ddpay/dc/card/right/RightServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../octans/credit-card-common/src/main/java/com/xiaoju/ddpay/dc/card/common/constant/RightConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../octans/credit-card-common/src/main/java/com/xiaoju/ddpay/dc/card/common/exception/CommonErrorCode.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../octans/credit-card-rights/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../octans/credit-card-rights/src/main/java/com/xiaoju/ddpay/dc/card/rights/api/AcquireSingleInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../octans/credit-card-rights/src/main/java/com/xiaoju/ddpay/dc/card/rights/api/CouponAcquireResp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../octans/credit-card-rights/src/main/java/com/xiaoju/ddpay/dc/card/rights/api/CouponInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../octans/credit-card-rights/src/main/java/com/xiaoju/ddpay/dc/card/rights/api/CouponInfoListResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../octans/credit-card-rights/src/main/java/com/xiaoju/ddpay/dc/card/rights/api/CouponInnerRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../octans/credit-card-rights/src/main/java/com/xiaoju/ddpay/dc/card/rights/api/PushRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../octans/credit-card-rights/src/main/java/com/xiaoju/ddpay/dc/card/rights/api/PushResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../octans/credit-card-rights/src/main/java/com/xiaoju/ddpay/dc/card/rights/api/PushUserInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../octans/credit-card-rights/src/main/java/com/xiaoju/ddpay/dc/card/rights/api/RightAcquireCouponDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../octans/credit-card-rights/src/main/java/com/xiaoju/ddpay/dc/card/rights/api/RightAvailableCouponListDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../octans/credit-card-rights/src/main/java/com/xiaoju/ddpay/dc/card/rights/api/UserRightsResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../octans/credit-card-rights/src/main/java/com/xiaoju/ddpay/dc/card/rights/config/PartnerServerConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../octans/credit-card-rights/src/main/java/com/xiaoju/ddpay/dc/card/rights/config/RightPartnerServerConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../octans/credit-card-rights/src/main/java/com/xiaoju/ddpay/dc/card/rights/config/SmsConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../octans/credit-card-rights/src/main/java/com/xiaoju/ddpay/dc/card/rights/constant/ResponseStatus.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../octans/credit-card-rights/src/main/java/com/xiaoju/ddpay/dc/card/rights/constant/RightErrorCode.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../octans/credit-card-rights/src/main/java/com/xiaoju/ddpay/dc/card/rights/constant/RightErrorEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../octans/credit-card-rights/src/main/java/com/xiaoju/ddpay/dc/card/rights/service/BuildService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../octans/credit-card-rights/src/main/java/com/xiaoju/ddpay/dc/card/rights/service/RightService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../octans/credit-card-rights/src/main/java/com/xiaoju/ddpay/dc/card/rights/service/external/RightRpsService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../octans/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shark/shark-core/src/main/java/com/xiaoju/manhattan/shark/core/service/inner/SharkRpcService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
           <value>
             <set />
           </value>
