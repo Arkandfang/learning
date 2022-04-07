@@ -21,8 +21,12 @@ public class ReferenceObject {
 
     }
 
+    /**
+     * 指针交换
+     * @param arr1
+     * @param arr2
+     */
     public static void change(ArrayList<String> arr1, ArrayList<String> arr2) {
-        arr1.add("123");
         ArrayList<String> temp = null;
         temp = arr1;
         arr1 = arr2;

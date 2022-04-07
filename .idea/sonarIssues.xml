@@ -48,6 +48,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../bank-flow/core/src/main/java/com/xiaoju/manhattan/financing/bank/flow/core/worker/asyncdatamigration/asyncpurchasecheck/AsyncCheckBank2SparrowPurchaseExecuter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../bank-flow/partner/src/main/java/com/xiaoju/manhattan/financing/bank/flow/partner/config/PartnerServerConfig.java">
           <value>
             <set />
@@ -69,6 +74,31 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../bank-flow/portal/src/main/java/com/xiaoju/manhattan/financing/bank/flow/portal/controller/transaction/WorkerController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bank-gateway/bank-gateway-web/src/main/java/com/xiaoju/manhattan/bank/gateway/web/controller/bankplus/ddpay/AccountController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bank-gateway/bank-gateway-web/src/main/java/com/xiaoju/manhattan/bank/gateway/web/exception/ErrorCodeMsg.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bank-gateway/bank-gateway-web/src/main/java/com/xiaoju/manhattan/bank/gateway/web/rpcinvoker/FaceIdInvoker.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bank-gateway/bank-gateway-web/src/main/java/com/xiaoju/manhattan/bank/gateway/web/rpcinvoker/MfSceneHttpInvoker.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../financing-applet-admin/admin-db/src/main/java/com/xiaoju/manhattan/financing/applet/admin/db/AdminDatabaseConfiguration.java">
           <value>
             <set />
           </value>
@@ -108,6 +138,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/basic/src/main/java/hashmap/ConcurrentHashMapTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/basic/src/main/java/hashmap/HashMapTest.java">
           <value>
             <set />
@@ -124,6 +159,46 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/basic/src/main/java/test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/basic/src/main/java/thread/FutureThreadTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/basic/src/main/java/thread/NormalThreadTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/basic/src/main/java/thread/ScheduledThreadPoolExecutorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/basic/src/main/java/thread/ThreadPoolTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/basic/src/main/java/thread/ThreadTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/basic/src/main/java/xcw.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/basic/src/main/java/xcx/CommonSpecialRosterRequestVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/basic/src/main/java/xcx/xcw.java">
           <value>
             <set />
           </value>
@@ -164,6 +239,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../octans/credit-card-bootstrap/src/test/java/com/xiaoju/ddpay/dc/card/right/RightServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../octans/credit-card-bootstrap/src/test/java/com/xiaoju/ddpay/dc/card/right/xcw.java">
           <value>
             <set />
           </value>
@@ -274,6 +354,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../octans/credit-card-rights/src/main/java/com/xiaoju/ddpay/dc/card/rights/service/RightService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../octans/credit-card-rights/src/main/java/com/xiaoju/ddpay/dc/card/rights/service/RightsService.java">
           <value>
             <set />
           </value>
