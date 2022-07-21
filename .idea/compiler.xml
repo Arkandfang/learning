@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="basic" target="1.8" />
       <module name="basic.main" target="1.8" />
       <module name="basic.test" target="1.8" />
       <module name="learning.basic.main" target="1.8" />
