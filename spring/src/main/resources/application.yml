@@ -1,0 +1,30 @@
+server:
+  port: 9211
+  servlet:
+    encoding:
+      force-response: true
+    context-path: /dc-octans
+spring:
+  main:
+    banner-mode: off
+    allow-circular-references: true
+  profiles:
+    active: dev
+  datasource:
+    url: jdbc:mysql://10.190.44.51:3306/dc_credit_card?useUnicode=true&characterEncoding=utf-8&useSSL=false
+    username: root
+    password: Dc_2022!
+    hikari:
+      connection-timeout: 3000
+      minimum-idle: 5
+      maximum-pool-size: 100
+      connection-test-query: SELECT 1
+      idle-timeout: 600000
+      max-lifetime: 1800000
+      auto-commit: true
+  jooq:
+    sql-dialect: mysql
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+
