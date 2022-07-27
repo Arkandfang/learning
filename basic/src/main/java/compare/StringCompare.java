@@ -9,28 +9,27 @@ import java.util.*;
 public class StringCompare {
 
     public static void main(String[] args) {
-//        test();
-
+        // rightListMe 原始要求的类
         List<Right> rightListMe = new ArrayList<>();
         Right right = new Right();
-        right.setRightId("111asd");
+        right.setRightId("rightId111");
 
         Right right1 = new Right();
-        right1.setRightId("222asd");
+        right1.setRightId("rightId222");
 
         Right right2 = new Right();
-        right2.setRightId("333asd");
+        right2.setRightId("rightId333");
         rightListMe.add(right);
         rightListMe.add(right1);
         rightListMe.add(right2);
 
-
+        // rightListHe 特定顺序的类
         List<String> rightListHe = new ArrayList<>();
-        rightListHe.add("222asd");
-        rightListHe.add("111asd");
-        rightListHe.add("333asd");
+        rightListHe.add("rightId333");
+        rightListHe.add("rightId111");
+        rightListHe.add("rightId222");
 
-        Collections.sort(rightListMe, new Comparator<Right>() {
+        rightListMe.sort(new Comparator<Right>() {
             @Override
             public int compare(Right o1, Right o2) {
                 int index1 = rightListHe.indexOf(o1.getRightId());
