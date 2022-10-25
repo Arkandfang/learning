@@ -34,7 +34,7 @@ public class FanXingTest {
     }
 
 
-    public static Integer getCount(List<? extends Animal> animalList) {
+    public static Integer getCount(List<? extends Object> animalList) {
         return animalList.size();
     }
 }
