@@ -1,4 +1,7 @@
+import javax.swing.tree.TreeNode;
 import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.Queue;
 
 /**
  * @author fangzhou
@@ -6,7 +9,29 @@ import java.util.ArrayList;
  */
 public class Text1 {
 
+    public   static char firstUniqChar(String s) {
+        Queue<TreeNode> queue = new LinkedList<>();
+
+        LinkedList<Object> objects = new LinkedList<>();
+        char[] inPut = s.toCharArray();
+        int[] nums = new int[26];
+        for (int i = 0; i < inPut.length; i++) {
+            nums[inPut[i] - 97]++;
+        }
+
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] == 1) {
+                return  (char)(i+97);
+            }
+        }
+
+        return 0;
+
+
+    }
+
     public static void main(String[] args) {
+        firstUniqChar("leetcode");
 //        test1111111();
         extracted();
     }
@@ -50,7 +75,7 @@ public class Text1 {
                 "网易少儿围棋\n" +
                 "柯洁有道围棋\n" +
                 "有道少儿围棋联系电话\n" +
-                "有道少儿围棋课程" ;
+                "有道少儿围棋课程";
         String lines[] = context.split("\\n");
         ArrayList<String> list = new ArrayList<>();
         for (int i = 0; i < lines.length; i++) {
@@ -65,7 +90,7 @@ public class Text1 {
         System.out.println(result.toString());
     }
 
-    public static  void test1111111(){
+    public static void test1111111() {
         String line = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr+R36HCejfBkHtzz5VlJ" +
                 "6Px8QamIBF+cSDD5hxkkd4hEnmy7Xr8Kdiy/5hCY/1KjLwdH4eI9pvofHB9xjJoC" +
                 "hKteIZqx+kxyFVYKdMQIKN8ueEs6fB33YDQ3zmIfmhroH6sndmg1gLTQ9KaU9rzM" +
