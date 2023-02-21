@@ -13,20 +13,30 @@ public class FanXingTest {
     public static void main(String[] args) {
         Dog dog = new Dog();
         dog.setSmell("狗的嗅觉");
-        Animal animal = new Animal();
-        animal.setName("动物");
-        String info = getInfo(dog);
-        System.out.println("输出的信息是" + info);
+//        Animal animal = new Animal();
+//        animal.setName("动物");
 
-        ArrayList<Animal> animals = new ArrayList<>();
-
-        ArrayList<Dog> dogs = new ArrayList<>();
+        Animal animal = (Animal)dog;
+        Dog dogs = (Dog) animal;
+        System.out.println(dogs.getSmell());
 
 
-        Integer count = getCount(dogs);
-        Integer count1 = getCount(animals);
 
-        System.out.println("数量是 " + count);
+//        Animal animal11 = new Dog();
+//        String smell = ((Dog) animal).getSmell();
+//        System.out.println(smell);
+//        String info = getInfo(dog);
+//        System.out.println("输出的信息是" + info);
+//
+//        ArrayList<Animal> animals = new ArrayList<>();
+//
+//        ArrayList<Dog> dogs = new ArrayList<>();
+//
+//
+//        Integer count = getCount(dogs);
+//        Integer count1 = getCount(animals);
+//
+//        System.out.println("数量是 " + count);
     }
 
     public static String getInfo(Animal animal) {

@@ -1,5 +1,6 @@
 package test;
 
+import java.util.ArrayList;
 import java.util.Stack;
 
 /**
@@ -61,6 +62,7 @@ public class MinStack {
         minStack.pop();
         minStack.min();
 
+        ArrayList<Object> objects = new ArrayList<>();
 
     }
 }
